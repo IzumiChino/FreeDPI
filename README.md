@@ -1,4 +1,4 @@
-#等待修改，先放旁边，项目名暂改为FreeDPI
+# 等待修改，先放旁边，项目名暂改为FreeDPI
 
 GoodbyeDPI — Deep Packet Inspection circumvention utility
 =========================
